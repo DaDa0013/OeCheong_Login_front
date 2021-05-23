@@ -1,0 +1,99 @@
+
+  h1 {
+    position: relative;
+    top:20px;
+    bottom: 450x;
+    left: 85px;
+    font-size: 50px;
+    font-family: serif;
+    text-align: left;
+    font-weight: bolder;
+    margin-bottom: 70px;
+    margin-top:0px;
+  }
+  p{
+    text-align: center;
+  }
+  .background{
+    background-image: url("../img/background.png");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    top:0;
+    left:0;
+    /* background-color:skyblue;
+    background-size: cover;
+    position:absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:100%; */
+  }
+  .image{
+    width: 200px;
+    height:50px;
+    position: relative;
+    top: 170px;
+    left: 400px;
+  }
+  .bigbox{
+    background-color: white;
+    padding: 20px;
+    /* padding-bottom: 150px; */
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 50px;
+    padding-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 20px;
+    border-style: groove;
+    width: 300px;
+    height: 400px;
+  }
+  .inputbox{
+    position: relative;
+    left: 0px;
+    top: 20px;
+    bottom: 10px;
+    width: 200px;
+    height: 30px;
+  }
+  .button{
+    position: relative;
+    left: 170px;
+    bottom: 80px;
+    color: white;
+    font-family: serif;
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 30px;
+    width: 100px;
+    height: 80px;
+    background-color: rgb(8, 80, 139);
+    /* border-radius: 5px; */
+    border: none;
+  }
+  .links{
+    position: relative;
+    bottom: 10px;
+    text-align: center;
+    color:lightslategrey;
+    font-size: 12px;
+  }
+  .link2{
+    position: relative;
+    bottom: 20px;
+    left: 90px;
+    padding:80;
+    text-align: center;
+    color:black;
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
